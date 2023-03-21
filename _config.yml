@@ -3,9 +3,9 @@
 title: Skylarks
 description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: ""
+url: 
+email: 
 
 # Pagination
 paginate: 4
