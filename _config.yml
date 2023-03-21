@@ -3,14 +3,14 @@
 title: Skylarks
 description: subtitle | affiliations | motto
 
-baseurl: "/"
-url: 
+baseurl:
+url: ""
 email: 
 
 # Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+# paginate: 4
+# permalink: /blog/:year/:title/
+# paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
