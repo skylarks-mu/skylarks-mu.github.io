@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Skylarks
-description: subtitle | affiliations | motto
+description: Design Thinking Team
 
 baseurl:
 url: ""
@@ -12,16 +12,16 @@ paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
-# Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+# # Social media links in footer
+# twitter: "#"
+# linkedin: "#"
+# stackoverflow: "#"
+# github: "#"
+# researchgate: "#"
+# orcid: "#"
+# quora: "#"
+# instagram: "#"
+# facebook: "#"
 
 
 # Markdown
